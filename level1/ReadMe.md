@@ -44,6 +44,16 @@
 
     - [이상한 문자 만들기][Create Weird Characters]
 
+- 2022.04.26 (3) - 18
+
+    - [[1차] 다트 게임][1st Dart Game]
+   
+    - [신규 아이디 추천][New ID recommendation]
+
+    - [크레인 인형뽑기 게임][Crane Puppet Game]
+
+    
+
 [rectangle star]: ./rectangle_star.js "직사각형 별찍기"
 [innerproduct]: ./innerproduct.js "내적"
 [spaced number]: ./spaced_number.js "x만큼 간격이 있는 n개의 숫자"
@@ -59,5 +69,8 @@
 [Placing Integers in Descending Order]: ./placing_integers_in_descending_order.js "정수 내림차순으로 배치하기"
 [Add Digits]: ./add_digits.js "자릿수 더하기"
 [Create Weird Characters]: ./create_weird_characters.js "이상한 문자 만들기"
+[1st Dart Game]: ./1st_dart_game.js "[1차] 다트 게임"
+[New ID recommendation]: ./new_id_recommendation.js "신규 아이디 추천"
+[Crane Puppet Game]: ./crane_puppet_game.js "크레인 인형뽑기 게임"
 
 ----------------------
