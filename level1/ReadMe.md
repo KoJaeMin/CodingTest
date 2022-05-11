@@ -1,6 +1,6 @@
 # Level 1
 
-- 푼 문제 수 : 15
+- 푼 문제 수 : 21
 
 ## 문제별 링크
 
@@ -52,6 +52,13 @@
 
     - [크레인 인형뽑기 게임][Crane Puppet Game]
 
+- 2022.05.11 (3) - 21 
+
+    - [두 개 뽑아서 더하기][Take two and Add]
+
+    - [포켓몬][Pokemon]
+
+    - [숫자 문자열과 영단어][Numeric strings and English words]
     
 
 [rectangle star]: ./rectangle_star.js "직사각형 별찍기"
@@ -72,5 +79,8 @@
 [1st Dart Game]: ./1st_dart_game.js "[1차] 다트 게임"
 [New ID recommendation]: ./new_id_recommendation.js "신규 아이디 추천"
 [Crane Puppet Game]: ./crane_puppet_game.js "크레인 인형뽑기 게임"
+[Take two and Add]: ./take_two_and_add.js "두 개 뽑아서 더하기"
+[Pokemon]: ./pokemon.js "포켓몬"
+[Numeric strings and English words]: ./numeric_strings_and_english_words.js "숫자 문자열과 영단어"
 
 ----------------------
