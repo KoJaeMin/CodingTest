@@ -1,6 +1,6 @@
 # Level 1
 
-- 푼 문제 수 : 25
+- 푼 문제 수 : 28
 
 ## 문제별 링크
 
@@ -69,6 +69,14 @@
     - [음양 더하기][Add negative positive]
 
     - [모의고사][Mock exam]
+
+- 2022.05.17 (3) - 28
+
+    - [소수 만들기][Make prime number]
+
+    - [체육복][Gym suit]
+
+    - [실패율][Failure rate]
     
 
 [rectangle star]: ./rectangle_star.js "직사각형 별찍기"
@@ -96,5 +104,8 @@
 [Add missing numbers]: ./add_missing_numbers.js "없는 숫자 더하기"
 [Add negative positive]: ./add_negative_positive.js "음양 더하기"
 [Mock exam]: ./mock_exam.js "모의고사"
+[Make prime number]: ./make_prime_number.js "소수 만들기"
+[Gym suit]: ./gym_suit.js "체육복"
+[Failure rate]: ./failure_rate.js "실패율"
 
 ----------------------
